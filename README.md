@@ -1,1 +1,1 @@
-# openscope-firware
+# openscope-firmware
